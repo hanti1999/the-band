@@ -286,9 +286,8 @@ html {
 .place-time{
     padding: 15px 0px;
 }
-
-
 /* ------ End place */
+
 /* Contact ------ */
 .contact-content {
     padding-top: 32px;
@@ -301,7 +300,7 @@ html {
 }
 
 .contact-info p i {
-    padding-right: 8px;
+    margin-right: 8px;
 }
 /* ------ End contact */
 /* Footer ------ */
