@@ -170,7 +170,7 @@ html {
 
 /* Slider --------- */
 #slider {
-    background: url('/Practise/The-band/assets/img/slider/vietnam.png') top center / cover no-repeat;
+    background: url('/The-band/assets/img/slider/vietnam.png') top center / cover no-repeat;
     padding-top: 50%;
     margin-top: 46px;
     position: relative;
@@ -191,9 +191,10 @@ html {
 /* ---------- End slider */
 .content-section {
     width: 800px;
+    max-width: 100%;
     margin-left: auto;
     margin-right: auto;
-    padding: 64px 16px 80px;
+    padding: 64px 16px 80px 16px;
 }
 
 .content-heading {
