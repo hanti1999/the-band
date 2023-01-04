@@ -58,11 +58,6 @@ html {
     opacity: 0.6;
 }
 
-.padd-32tb {
-    padding-top: 32px;
-    padding-bottom: 32px;
-}
-
 .btn {
     border: none;
     color: #fff;
@@ -81,6 +76,49 @@ html {
     float: right;
 }
 
+.mar-tb15 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.mar-tb32 {
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.padd-8-16 {
+    padding: 8px 16px;
+}
+
+.padd-tb15 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.padd-t15 {
+    padding-top: 15px;
+}
+
+.padd-lr16 {
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.back-black {
+    background-color: #000;
+}
+
+.back-white {
+    background-color: #fff;
+}
+
+.border {
+    border: 1px solid #ccc;
+}
+
+.font-15 {
+    font-size: 15px;
+}
 /* ------ End common */
 
 #header {
@@ -162,10 +200,6 @@ html {
 .search-btn:hover {
     background-color: #f44336;
 }
-
-.search-icon {
-    color: #fff;
-}
 /* --------- End search */
 
 /* Slider --------- */
@@ -204,11 +238,6 @@ html {
     margin: 10px 0px;
 }
 
-.content-sub-heading {
-    margin: 15px 0px;
-    font-style: italic;
-}
-
 .content-text {
     margin-bottom: 15px;
     text-align: justify;
@@ -219,27 +248,9 @@ html {
     width: 150px;
     border-radius: 4px;
 }
-
-.member-name {
-    margin: 15px 0px;
-}
-
 /* ------ End team */
 
 /* Tour ------ */
-.tour {
-    background-color: #000;
-}
-
-.ticket-list {
-    background-color: #fff;
-}
-
-.ticket-list li {
-    padding: 8px 16px;
-    border-bottom: 1px solid #ccc;
-}
-
 .sold-out {
     color: #fff;
     padding: 4px 8px;
@@ -260,11 +271,6 @@ html {
 /* ------ End tour */
 
 /* Place ------ */
-.place-item {
-    margin-top: 32px;
-    margin-bottom: 32px;
-}
-
 .place-img {
     width: 100%;
     display: block;
@@ -272,20 +278,6 @@ html {
 
 .place-img:hover {
     opacity: 0.6;
-}
-
-.place-content {
-    background-color: #fff;
-    padding: 0px 16px;
-}
-
-.place-header {
-    padding-top: 15px;
-    font-size: 15px;
-}
- 
-.place-time{
-    padding: 15px 0px;
 }
 /* ------ End place */
 
