@@ -12,6 +12,10 @@ html {
 }
 
 /* common */
+h2 {
+    font-weight: 500;
+}
+
 .text-white {
     color: #fff;
 }
@@ -219,7 +223,6 @@ html {
 
 .slider-text h2 {
     font-size: 24px;
-    font-weight: 500;
     margin-bottom: 15px;
 }
 /* ---------- End slider */
@@ -233,7 +236,6 @@ html {
 
 .content-heading {
     letter-spacing: 4px;
-    font-weight: 500;
     font-size: 30px;
     margin: 10px 0px;
 }
